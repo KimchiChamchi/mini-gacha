@@ -57,7 +57,7 @@ const App = () => {
     <BrowserRouter>
       <Routes>
         <Route
-          path="/draw"
+          path="/"
           exact
           element={<Draw initialization={initialization} />}
         ></Route>

@@ -69,14 +69,6 @@ const Draw = (props) => {
       });
   };
 
-  // await drawContract.methods.getMyItemList().call();
-  // .then((voteResult) => {
-  //   console.log(voteResult);
-  // })
-  // .catch((err) => {
-  //   console.error(err);
-  // });
-
   return (
     <div className="container">
       <div className="title">
